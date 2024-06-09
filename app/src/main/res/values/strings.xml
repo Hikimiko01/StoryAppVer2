@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau lihat status orang tersayang? Daftar sekarang!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk lihat status doi kamu?</string>
+    <string name="name">Nama</string>
+    <string name="description">Lorem Ipsum</string>
+    <string name="message_main_page">Selamat Datang di Dicoding Story App!.</string>
+    <string name="greeting">Halo, %1$s</string>
+    <string name="logout">Keluar</string>
+    <string name="pass_error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="email_error">Email harus mengandung @gmail.com</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="camera_button">Camera</string>
+    <string name="add_story_desc">Masukkan deskripsi cerita anda</string>
+    <string name="upload">Upload</string>
+    <string name="error_occured">Mohon maaf, terjadi error</string>
+    <string name="registered_email">Email tersebut sudah terdaftar. Yuk coba pakai email lain!</string>
+    <string name="login_success">Anda berhasil login. Sudah tidak sabar untuk stalking ya?</string>
+    <string name="acc_not_found">Sepertinya akun kamu belum terdaftar. Yuk daftar dulu!</string>
+    <string name="field_not_filled">Ada yang belum kamu isi nih, yuk di cek lagi!</string>
+    <string name="location_sharing">Bagikan Lokasi</string>
+    <string name="retry">Coba lagi</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="yeah">Yeah!</string>
+    <string name="ups">Ups!</string>
+    <string name="daftar">Daftar</string>
+    <string name="back">Kembali</string>
+    <string name="error">Terdapat kesalahan pada sistem</string>
+</resources>
